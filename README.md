@@ -1,6 +1,6 @@
-brain beats 
+# brain beats / brain computer interface hack 
 muselsl 
 spotipy 
 
-# techno-optimism hackathon
+ techno-optimism hackathon
 
