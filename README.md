@@ -1,4 +1,6 @@
-# Welcome to @brain_beats 
+# @brain_beats 
+(eeg controlled spotify pause + playback)
+
 muselsl 
 spotipy 
 
