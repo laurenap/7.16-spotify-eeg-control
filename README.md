@@ -1,4 +1,4 @@
-# brain beats / brain computer interface hack 
+# Welcome to @brain_beats 
 muselsl 
 spotipy 
 
